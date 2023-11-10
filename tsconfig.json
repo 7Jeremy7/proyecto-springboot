@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig to read more about this file */
+    /* Language and Environment */
+    "target": "es2016",                                 
+    /* Modules */
+    "module": "commonjs",                                
+    "outDir": "./dist",
+    "strict": true,     
+    "esModuleInterop": true,                   //recomendable es orden alfabético para ordenar las propiedades              
+  },
+  "include":["src/**/*.ts"],    
+  "exclude":["node_modules"]
+}

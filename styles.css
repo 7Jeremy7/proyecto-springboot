@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0px;
+    background-image:url("https://blog.mozilla.org/wp-content/blogs.dir/278/files/2020/07/Fx_Blog_DE_HowtodSellDrugs.jpg");
+    color: #eee;
+}
+
+#characters-container p{
+    width: 200px;
+    margin: 10px;
+}
+
+h1{
+    text-align: center;
+    margin: 50px;
+}
+
